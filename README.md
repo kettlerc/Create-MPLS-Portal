@@ -6,7 +6,6 @@ Duration: Built in a 2 week sprint.
 
 This project is a administration program for Create MPLS to manage their students, teachers, volunteers, and programs between locations. The goal of it being a record holder for all their needed info for grants so that spreadsheets can go to the way side. 
 
-To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](www.heroku.com)
 
 ## Screen Shot
 
