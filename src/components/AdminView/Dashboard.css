@@ -1,0 +1,11 @@
+#flex-chart-container {
+display:flex;
+}
+
+.flex-child {
+margin-right: 10px;
+}
+
+#studentEnrollment {
+    
+}

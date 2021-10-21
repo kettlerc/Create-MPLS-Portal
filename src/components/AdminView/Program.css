@@ -1,0 +1,16 @@
+h1 {
+    padding-top: 30px;
+}
+
+#oneLine {
+    display: inline-flex;
+}
+
+#deleteBttn, #addBttn {
+    margin: 10px;
+    height: 30px;
+}
+
+#react-root > div > div:nth-child(5) > div > h6 {
+    padding-top: 18px;
+}

@@ -1,0 +1,27 @@
+#demo-simple-select {
+    width: 85px;
+}
+
+#demo-simple-select2 {
+    width: 115px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+#addBttn {
+    height: 55px;
+}
+
+#headerOne {
+    padding-top: 30px;
+}
+
+#headerTwo {
+    padding-top: 50px;
+}
